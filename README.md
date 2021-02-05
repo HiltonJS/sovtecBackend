@@ -6,12 +6,6 @@ A Graphql api which returns Chuck Noriss jokes from [api.icndb]('http://api.icnd
 
 First clone the repository and install dependencies.
 
-```bash
-$ git clone https://github.com/markuswind/apollo-server-boilerplate
-$ npm ci
-$ npm run start
-```
-
 ## Adding new (type safe) resolvers
 
 Because we want to have type safe resolvers, it's the easiest to create new resolvers in order described below.
